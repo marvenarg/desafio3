@@ -1,4 +1,4 @@
-# Desafío 3 - Jenkins Pipeline
+# Desafío 3 - Jenkins Pipeline + Docker
 
 Este repositorio contiene el `Jenkinsfile` para automatizar el despliegue de una aplicación PHP en Docker, incluyendo construcción de imagen, ejecución de contenedor, validación y publicación en Docker Hub.
 
