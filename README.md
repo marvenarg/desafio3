@@ -40,5 +40,5 @@ Dentro del `Jenkinsfile` hay una sección comentada con triggers:
 //     cron('H/15 * * * *')
 // }
 ```
-Puede activarla si se quiere que el pipeline corra automáticamente por cambios en GitHub o cada cierto tiempo.
+Puede se descomentada si se requiere que el pipeline corra automáticamente por cambios en GitHub o cada cierto tiempo.
 
